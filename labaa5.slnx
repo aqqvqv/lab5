@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="labaa5/labaa5.vcxproj" Id="f6b617ec-8c3d-4f74-9af6-9efce56d5cfe" />
+  <Project Path="labaaa5/labaaa5.vcxproj" Id="7a0ffa9c-7c18-4061-b4c8-ef1fd2b15bdb" />
+</Solution>
